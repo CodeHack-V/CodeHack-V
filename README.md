@@ -6,4 +6,4 @@ English:
 - 👋嗨，我是@ CodeHack-V
 - 👀我对软件开发和渗透测试感兴趣
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodeHack-V&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=CodeHack-V&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
